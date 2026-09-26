@@ -17,7 +17,7 @@ public class AppTest {
 	
 	@Test
 	void testMultiply() {
-		assertEquals(15,app.mul(10,10));
+		assertEquals(100,app.mul(10,10));
 		
 	}
 }
